@@ -1,37 +1,29 @@
 #MY FABLAB EXPERIENCE :)
 
-FABLAB of MESCE is giving me a fabulous experience. With an intodructionYou can use the [editor on GitHub](https://github.com/haifaaboobacker17/haifaaboobacker17.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+FABLAB of MESCE is giving me a fabulous experience. With an introduction by Mr. Shine, our faculty in charge of Fablab followed by Mr. Jaseel, our official trainer from Kerala Startup Mission who ia a fablab graduate elaborated.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[GitHub Logo](https://cloud.githubusercontent.com/assets/5456665/13322882/e74f6626-dc00-11e5-921d-f6d024a01eaa.png
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##DAY 1
 
-```markdown
+1- Started off with the familiarisation of machines
+   *3D PRINTER
+   *VINYL CUTTING MACHINE
+   *LASER CUTTING MACHINE
+   *
+   
+sub-item-2
+item-2 
+sub-item-3
+sub-item-4
+item-3 
+sub-item-5
+sub-item-6
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haifaaboobacker17/haifaaboobacker17.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
