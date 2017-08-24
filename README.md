@@ -1,11 +1,12 @@
-**#MY FABLAB EXPERIENCE :)**
+**# MY FABLAB EXPERIENCE :)**
 
 FABLAB of MESCE is giving me a fabulous experience. With an introduction by Mr. Shine, our faculty in charge of Fablab followed by Mr. Jaseel, our official trainer from Kerala Startup Mission who ia a fablab graduate elaborated.
 
-[GitHub Logo](https://cloud.githubusercontent.com/assets/5456665/13322882/e74f6626-dc00-11e5-921d-f6d024a01eaa.png
+![alt text](https://cloud.githubusercontent.com/assets/5456665/13322882/e74f6626-dc00-11e5-921d-f6d024a01eaa.png
+ "Logo Title Text 1")
 
 
-**##DAY 1**
+**## DAY 1**
 
 1- Started off with the familiarisation of machines;
 
